@@ -1,0 +1,4 @@
+********************************************************************************
+Date/Time: 9/3/2022
+Exception Info: {"status":500,"statusText":"Internal Server Error","message":"ENOENT: no such file or directory, open './assets/pies2.json'","error":{"errno":-2,"call":"open","code":"INTERNAL_SERVER_ERROR","message":"ENOENT: no such file or directory, open './assets/pies2.json'"},"requestInfo":{"hostname":"localhost","path":"/api/1"}}
+********************************************************************************
